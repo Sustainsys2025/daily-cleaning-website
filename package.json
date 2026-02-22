@@ -1,0 +1,19 @@
+{
+  "name": "daily-cleaning-website",
+  "version": "1.0.0",
+  "description": "Daily Cleaning Services - Commercial cleaning, devanning & staffing solutions website for Auckland, NZ",
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000 -l"
+  },
+  "keywords": [
+    "commercial-cleaning",
+    "devanning",
+    "staffing",
+    "auckland",
+    "new-zealand"
+  ],
+  "author": "Daily Cleaning Services Ltd",
+  "license": "UNLICENSED",
+  "private": true
+}
